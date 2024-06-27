@@ -1,3 +1,5 @@
+/*This code is taken from GreatStack and slightly altered*/
+
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
